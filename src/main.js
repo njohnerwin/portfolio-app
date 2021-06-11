@@ -6,6 +6,7 @@ import WowProject from './components/wowproject';
 import PasswordProject from './components/pwgenproject';
 import WeatherProject from './components/weatherproject';
 import ScheduleProject from './components/scheduleproject';
+import CryptoProject from './components/cryptoproject';
 
 const Main = () => (
   <Switch>
@@ -15,6 +16,7 @@ const Main = () => (
     <Route exact path="/password" component={PasswordProject} />
     <Route exact path="/weather" component={WeatherProject} />
     <Route exact path="/scheduler" component={ScheduleProject} />
+    <Route exact path="/crypto" component={CryptoProject} />
   </Switch>
 )
 

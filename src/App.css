@@ -266,6 +266,11 @@ body {
   background-size: cover;
 }
 
+#crypto-bg {
+  background-image: url("./pictures/cryptoapp.png");
+  background-size: cover;
+}
+
 .project-border {
   background-color: rgb(20, 20, 20);
   height: 20px;

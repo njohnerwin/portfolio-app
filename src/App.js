@@ -19,6 +19,7 @@ function App() {
           <a href="/scheduler#1"> {'>'} scheduler</a>
           <a href="/password#1"> {'>'} pwgen</a>
           <a href="/burger#1"> {'>'} burgertime</a>
+          <a href="/crypto#1"> {'>'} crypto</a>
         </div>
         <p id="footer">Nicholas Erwin ©2020</p>
       </div>
